@@ -1,2 +1,5 @@
 /__pycache__/
 /MNIST_data/
+/F_MNIST_data/
+/cactus_dataset/
+*.zip
