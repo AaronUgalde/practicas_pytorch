@@ -3,3 +3,8 @@
 /F_MNIST_data/
 /cactus_dataset/
 *.zip
+*.pth
+*.pt
+*.ckpt
+checkpoints/
+runs/
